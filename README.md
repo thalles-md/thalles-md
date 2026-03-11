@@ -22,3 +22,4 @@ Meu objetivo a longo prazo é usar a tecnologia para ajudar, informar, e protege
 
 ### Vida Real:
 - Os bons mantedores e apoiadores do FOSS. 
+- Alysa Liu
