@@ -13,13 +13,13 @@ autônoma.
 Meu objetivo a longo prazo é democratizar, aumentar a segurança e privacidade, e ajudar os outros
 por meio da tecnologia.
 
-Minhas inspirações e adimirações são:
+##  Minhas inspirações e adimirações são:
 
-Ficcional:
+### Ficcional:
 - Jiraya (Naruto)
 - Lucca (Chrono Trigger)
 - 9S (Nier Automata)
 - Lain Iwakura
 
-Vida Real:
+### Vida Real:
 - Os bons mantedores e apoiadores do FOSS. 
