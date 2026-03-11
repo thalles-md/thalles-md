@@ -1,16 +1,23 @@
-## Hi there 👋
+![Personagem de Persona 5](./note.gif)
 
-<!--
-**thalles-md/thalles-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante de Ciências da Computação.
 
-Here are some ideas to get you started:
+Atualmente estudando Python, C, e Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu objetivo a curto prazo é ser bom o suficiente nas ferramentas que uso
+ao ponto de conseguir criar (quase) qualquer coisa que eu precise de forma
+autônoma.
+
+Meu objetivo a longo prazo é democratizar, aumentar a segurança e privacidade, e ajudar os outros
+por meio da tecnologia.
+
+Minhas inspirações e adimirações são:
+
+Ficcional:
+- Jiraya (Naruto)
+- Lucca (Chrono Trigger)
+- 9S (Nier Automata)
+- Lain Iwakura
+
+Vida Real:
+- Os bons mantedores e apoiadores do FOSS. 
