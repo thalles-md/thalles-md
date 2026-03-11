@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./note.gif" width="250"/>
+  <img src="./note.gif" width="300"/>
 </div>
 
 ## Estudante de Ciências da Computação.
