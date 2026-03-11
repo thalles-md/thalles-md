@@ -10,10 +10,9 @@ Meu objetivo a curto prazo é ser bom o suficiente nas ferramentas que uso
 ao ponto de conseguir criar (quase) qualquer coisa que eu precise de forma
 autônoma.
 
-Meu objetivo a longo prazo é democratizar, aumentar a segurança e privacidade, e ajudar os outros
-por meio da tecnologia.
+Meu objetivo a longo prazo é usar a tecnologia para ajudar, informar, e proteger as pessoas.
 
-##  Minhas inspirações e adimirações são:
+##  Minhas inspirações e admirações são:
 
 ### Ficcional:
 - Jiraya (Naruto)
