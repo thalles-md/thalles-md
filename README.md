@@ -1,4 +1,6 @@
-![Personagem de Persona 5](./note.gif)
+<div align="center">
+  <img src="./note.gif" width="250"/>
+</div>
 
 ## Estudante de Ciências da Computação.
 
