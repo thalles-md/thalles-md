@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./note.gif" width="500"/>
-</div>
-
 ## Estudante de Ciências da Computação.
 
 Atualmente estudando Python, C, e Linux.
