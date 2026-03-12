@@ -11,6 +11,7 @@ Meu objetivo a longo prazo é usar a tecnologia para ajudar, informar, e protege
 ##  Minhas inspirações e admirações são:
 
 ### Ficcional:
+- Nico Robin
 - Jiraya (Naruto)
 - Lucca (Chrono Trigger)
 - 9S (Nier Automata)
