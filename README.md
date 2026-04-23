@@ -14,9 +14,3 @@ Tenho imensa admiração pelo movimento FOSS (Free and Open Source Software), e 
 
 Meu sistema atual é o **Fedora Linux**.
 Você pode ver minhas "dotfiles" [aqui](https://github.com/thalles-md/thalles-md/tree/main/dotfiles).
-
-
-
----
-
-<img width="500" height="279" text-align="center" alt="Face to Face" src="perseverança.jpg" />
