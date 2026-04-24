@@ -13,4 +13,3 @@ Sou um estudante de Ciências da Computação, e escolhi esse curso por ver nele
 Tenho imensa admiração pelo movimento FOSS (Free and Open Source Software), e acredito que não há como separar a tecnologia da filosofia, ou de qualquer outra área humana. E então, temos total responsabilidade com o quê criamos/disponibilizamos e também com o quê *deixamos de criar/disponibilizar*. 
 
 Meu sistema atual é o **Fedora Linux**.
-Você pode ver minhas "dotfiles" [aqui](https://github.com/thalles-md/thalles-md/tree/main/dotfiles).
