@@ -1,0 +1,13 @@
+Package        Version
+-------------- -------
+gallery_dl     1.32.0
+markdown-it-py 4.0.0
+mdurl          0.1.2
+Pygments       2.20.0
+pytube         15.0.0
+redis          7.4.0
+rich           15.0.0
+spotdl         3.9.6
+spotipy        2.26.0
+Unidecode      1.4.0
+ytmusicapi     1.11.5
