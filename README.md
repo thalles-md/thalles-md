@@ -1,8 +1,9 @@
 #  Thalles. (삼)
 
-<center>
-  <img src="jinxs.gif" alt="Jinxs GIF" />
-</center>
+<p align="center">
+  <img src="jinxs.gif" alt="Jinxs GIF" width="500" />
+</p>
+
 
 Atualmente estudando Python, Web e Bash.
 
