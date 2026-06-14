@@ -1,7 +1,7 @@
 #  Thalles. (삼)
 
 <p align="center">
-  <img src="sakura.gif" alt="sakura gif tecnologia" width="700" />
+  <img src="sakura.gif" alt="sakura gif tecnologia" width="650" />
 </p>
 
 
