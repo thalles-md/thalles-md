@@ -1,5 +1,7 @@
 #  Thalles. (삼)
 
+<img src="jinxs.gif" alt="jinx em seu lugarzinho construindo algo" width="300" />
+
 Atualmente estudando Python, Web e Bash.
 
 Meu objetivo a curto prazo é ser bom o suficiente nas ferramentas que uso
