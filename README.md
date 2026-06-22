@@ -1,10 +1,5 @@
 #  Thalles. (삼)
 
-<p align="center">
-  <img src="sakura.gif" alt="sakura gif tecnologia" width="650" />
-</p>
-
-
 Atualmente estudando Python, Web e Bash.
 
 Meu objetivo a curto prazo é ser bom o suficiente nas ferramentas que uso
